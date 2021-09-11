@@ -5,3 +5,4 @@ test folder 2
 test folder 5
 test folder 4
 test folder 6
+test folder 7
