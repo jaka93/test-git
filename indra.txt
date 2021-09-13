@@ -1,4 +1,2 @@
 test ya Pak Jaka
-test 1 
-test 2
-test 3
+Hello, my name is Mahadi Indra
