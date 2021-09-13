@@ -1,0 +1,15 @@
+konfig database
+# DATASOURCE
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.datasource.url=jdbc:postgresql://localhost:5432/dbgarantipro
+spring.datasource.username=postgres
+spring.datasource.password=12345
+spring.jpa.open-in-view=false
+
+
+setting konfigurasi Java spring
+##JPA / HIBERNATE
+spring.jpa.show-sql=true
+spring.jpa.generate-ddl=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
