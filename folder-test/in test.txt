@@ -1,5 +1,15 @@
 test folder
+<<<<<<< HEAD
 test folder 2
 test folder 1
 test folder 3
 test folder 4
+=======
+test folder 1
+test folder 3
+test folder 2
+test folder 5
+test folder 4
+test folder 6
+test folder 7
+>>>>>>> 585460780b017c0950af85873b374ebee4f7e314
